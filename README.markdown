@@ -43,7 +43,7 @@ Contributing to Protoplasm
 
 Check out the Protoplasm source with 
 
-    $ git clone git://github.com/eleostech/prototype.git
+    $ git clone git://github.com/pnc/prototype.git
     $ cd prototype
     $ git submodule init
     $ git submodule update vendor/sprockets vendor/pdoc vendor/unittest_js
